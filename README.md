@@ -22,3 +22,7 @@ This repository contains Python-based simulations developed for the **Numerical 
 * **Language**: Python
 * **Core Libraries**: NumPy, SciPy, Matplotlib
 
+![Ising Model Simulation - diamagnetic phase](docs/diam_50.png)
+
+![Lennard-Jones fluid](docs/manyparticles.png)
+
