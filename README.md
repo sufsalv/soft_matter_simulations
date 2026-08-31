@@ -24,5 +24,5 @@ This repository contains Python-based simulations developed for the **Numerical 
 
 ![Ising Model Simulation - diamagnetic phase](docs/diam_50.png)
 
-![Lennard-Jones fluid](docs/manyparticles.png)
+![Lennard-Jones fluid](docs/many_particles.png)
 
